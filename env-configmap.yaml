@@ -4,9 +4,9 @@ metadata:
   name: env-configmap
 data:
   POSTGRES_DATABASE: jann
-  POSTGRES_HOST: jann.cklx2yr74vcl.us-east-1.rds.amazonaws.com
-  AWS_REGION: us-east-2
+  POSTGRES_HOST: jan.cfipokxjlxgr.us-east-1.rds.amazonaws.com
+  AWS_REGION: us-east-1
   AWS_PROFILE: default
-  AWS_S3_BUCKET: arn:aws:s3:::test-377a070d843d-jan
+  AWS_S3_BUCKET: arn:aws:s3:::tesr-377a07-dev
   JWT_SECRET: testing
   URL: http://localhost:8100
